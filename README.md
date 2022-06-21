@@ -1,6 +1,6 @@
  # Hi👋, I'm Vaishnavi! 
   
-## UI/UX Enthusiast | Data Structure and Algorithms 📚 | MERN stack web-development💻 
+# UI/UX Enthusiast | Data Structure and Algorithms 📚 | MERN stack web-development💻 
 
 ### My Techstack ⚙️
 
