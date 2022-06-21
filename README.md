@@ -1,18 +1,15 @@
  # Hi👋, I'm Vaishnavi! 
- 
- ##  Welcome to my github-profile ✨
-<!-- <img src=> -->
   
-### UI/UX Enthusiast | Data Structure and Algorithms 📚 | MERN stack web-development💻 
+## UI/UX Enthusiast | Data Structure and Algorithms 📚 | MERN stack web-development💻 
 
-## 🛠 Skills
+### My Techstack ⚙️
 
-### C, C++, Python, HTML, CSS, Javascript
+- C, C++, Python, HTML, CSS, Javascript
   
 ## 💻 About Me 
- - 🤝 Connect me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-nawghare-35a2a8210)
 
- 
+- 🤝 Connect me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-nawghare-35a2a8210)
+
 - I'd like to get feedbacks @ **vishynawghare@gmail.com**
 
 
