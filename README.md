@@ -9,7 +9,7 @@
 ## 💻 About Me 
 
 - 🤝 Connect me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-nawghare-35a2a8210)
-
+- 🔍 Learning Data Structure and Algorithms
 - I'd like to get feedbacks @ **vishynawghare@gmail.com**
 
 
