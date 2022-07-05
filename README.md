@@ -1,11 +1,13 @@
- # Hi👋, I'm Vaishnavi! 
+ ## Hi👋, I'm Vaishnavi! 
   
-# UI/UX Enthusiast | Data Structure and Algorithms 📚 | MERN stack web-development 💻 | Passionate Learner 👩‍🎓
+## UI/UX Enthusiast | Data Structure and Algorithms 📚 | MERN stack web-development 💻 | Passionate Learner 👩‍🎓
 
 ### My Techstack ⚙️
 
-- C, C++, Python, HTML, CSS, Javascript
-  
+---
+ C, C++, Python, HTML, CSS, Javascript 
+---
+
 ## 💻 About Me 
 
 - 🤝 Connect me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-nawghare-35a2a8210)
