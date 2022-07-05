@@ -7,7 +7,6 @@
 ## ⚙️ My Techstack 
 
 - C, C++, Python, HTML, CSS, Javascript, React JS, Node Js  
----
 
 ## ⚒️ Tools 
 
