@@ -1,10 +1,11 @@
- ## Hi👋, I'm Vaishnavi! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi-nawghare" alt="vaishnavi-nawghare" /> </p> 
+ 
+## Hi👋, I'm Vaishnavi! 
   
 ## UI/UX Enthusiast | Data Structure and Algorithms 📚 | MERN stack web-development 💻 | Passionate Learner 👩‍🎓
 
 ## My Techstack ⚙️
 
----
  C, C++, Python, HTML, CSS, Javascript 
 ---
 
@@ -13,6 +14,9 @@
 - 🤝 Connect me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-nawghare-35a2a8210)
 - 🔍 Learning Data Structure and Algorithms
 - I'd like to get feedbacks @ **vishynawghare@gmail.com**
+
+
+
 
 
 ## Github Stats
