@@ -2,7 +2,7 @@
   
 ## UI/UX Enthusiast | Data Structure and Algorithms 📚 | MERN stack web-development 💻 | Passionate Learner 👩‍🎓
 
-### My Techstack ⚙️
+## My Techstack ⚙️
 
 ---
  C, C++, Python, HTML, CSS, Javascript 
