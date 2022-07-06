@@ -6,11 +6,11 @@
 
 ## ⚙️ My Techstack 
 
-- C, C++, Python, HTML, CSS, Javascript, React JS, Node Js  
+- _C, C++, Python, HTML, CSS, Javascript, React JS, Node JS_
 
 ## ⚒️ Tools 
 
-- Canva, Adobe XD, Adobe Illustrator, Figma, Adobe Photoshop suit, etc..
+- _Canva, Adobe XD, Adobe Illustrator, Figma, Adobe Photoshop suit, etc.._
 
 ## 💻 About Me 
 
