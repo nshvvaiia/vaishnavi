@@ -6,7 +6,7 @@
 
 ## ⚙️ My Techstack 
 
-- _ Java, Kotlin, C, C++, Python, HTML, CSS, Javascript, React JS, Node JS_
+- _Java, Kotlin, C, C++, Python, HTML, CSS, Javascript, React JS, Node JS_
 
 ## ⚒️ Tools 
 
@@ -14,7 +14,7 @@
 
 ## 💻 About Me 
 
-- 🤝 Connect me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-nawghare-35a2a8210)
+-  🔍[LinkedIn](https://www.linkedin.com/in/vaishnavi-nawghare-35a2a8210)
 -  Feedbacks @ _**vishynawghare@gmail.com**_
 
 
