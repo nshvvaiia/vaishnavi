@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi-nawghare" alt="vaishnavi-nawghare" /> </p> 
  
-## Hey👋, This is Vaishnavi
+## Hey👋, This is Vaishnavi!
   
 ## Aspiring UI/UX & App Developer 🎓
 
