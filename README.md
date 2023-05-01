@@ -6,7 +6,7 @@
 
 ## ⚙️ My Techstack 
 
-- _Java, Kotlin, Python, HTML, CSS, Javascript, SQL_
+- _Python, HTML, CSS, Javascript, SQL_
 
 ## ⚒️ Tools 
 
