@@ -2,11 +2,11 @@
  
 ## Hey👋,  This is Vaishnavi!!
   
-## Aspiring UI/UX & App Developer 🎓
+## Aspiring App Developer 🎓
 
 ## ⚙️ My Techstack 
 
-- _Python, HTML, CSS, Javascript, SQL_
+- _Dart, Python, HTML, CSS, Javascript_
 
 ## ⚒️ Tools 
 
