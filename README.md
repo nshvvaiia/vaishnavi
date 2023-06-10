@@ -6,7 +6,7 @@
 
 ## ⚙️ My Techstack 
 
-- _Dart, Python, HTML, CSS, Javascript_
+- _Flutter, Dart, Python, C, HTML, CSS, Javascript_
 
 ## ⚒️ Tools 
 
