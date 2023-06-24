@@ -1,8 +1,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi-nawghare&color=brightgreen" alt="vaishnavi-nawghare" /> </p> 
- 
-## Hey👋,  This is Vaishnavi!!
 
+ 
 ![GitHub Background](src/vaishnavi-matrix.gif)
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=vaishnavi-nawghare&theme=merko&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+
 
  <!----
 ## Aspiring App Developer 🎓
