@@ -2,6 +2,8 @@
  
 ## Hey👋,  This is Vaishnavi!!
 
+![GitHub Background](src/vaishnavi-matrix.gif)
+
  <!----
 ## Aspiring App Developer 🎓
 
