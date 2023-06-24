@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi-nawghare" alt="vaishnavi-nawghare" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi-nawghare&color=brightgreen" alt="vaishnavi-nawghare" /> </p> 
  
 ## Hey👋,  This is Vaishnavi!!
 
