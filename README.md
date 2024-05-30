@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=vaishnavi-nawghare&theme=merko&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=vaishnavi-nawghare&theme=git-dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 <p align="right">
