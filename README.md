@@ -1,9 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi-nawghare&color=brightgreen" alt="vaishnavi-nawghare" /> </p> 
 
 
-![GitHub Background](src/banner.jpg)
-
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=vaishnavi-nawghare&theme=git-dark&hide_border=true" alt="GitHub Streak" />
