@@ -3,10 +3,13 @@
  
 ![GitHub Background](src/vaishnavi-matrix.gif)
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=vaishnavi-nawghare&theme=merko&hide_border=true" alt="GitHub Streak" />
   </a>
+</p>
+<p align="right">
+ ![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_red&show_icons=true)
 </p>
 
 
@@ -25,9 +28,3 @@
 ---->
 
 
-<details>
-<summary> My Holopin Board! ✨ </summary>
-
-[![@thisisshnavi's Holopin board](https://holopin.me/thisisshnavi)](https://holopin.io/@thisisshnavi)
-
-</details>
