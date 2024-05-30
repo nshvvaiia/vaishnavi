@@ -8,9 +8,7 @@
     <img src="https://streak-stats.demolab.com?user=vaishnavi-nawghare&theme=git-dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
-<p align="right">
- ![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavi-nawghare&theme=shadow_red&show_icons=true)
-</p>
+
 
 
 
