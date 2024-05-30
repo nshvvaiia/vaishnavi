@@ -1,7 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi-nawghare&color=brightgreen" alt="vaishnavi-nawghare" /> </p> 
 
- 
+<p align="center">
 ![GitHub Background](src/banner.jpg)
+</p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
