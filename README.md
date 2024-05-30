@@ -3,7 +3,7 @@
  
 ![GitHub Background](src/vaishnavi-matrix.gif)
 
-<p align="left">
+<p align="centre">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=vaishnavi-nawghare&theme=git-dark&hide_border=true" alt="GitHub Streak" />
   </a>
