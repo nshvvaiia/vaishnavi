@@ -1,11 +1,11 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi-nawghare&color=brightgreen" alt="vaishnavi-nawghare" /> </p> 
 
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=84506950" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=84506950&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @vaishnavi-nawghare" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=84506950&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=vaishnavi-nawghare&theme=git-dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
 
 
 
