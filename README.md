@@ -17,17 +17,4 @@
 -->
 
 
- <!----
-## Aspiring App Developer 🎓
-
-## ⚙️ My Techstack 
-
-- _Flutter, Dart, Python, C, HTML, CSS, Javascript_
-
-## ⚒️ Tools 
-
-- _Canva, Adobe Illustrator, Figma, Adobe Photoshop suit, etc.._
-
----->
-
 
